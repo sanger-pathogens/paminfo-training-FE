@@ -11,7 +11,7 @@ The purpose of the test is to assess candidates' skills working with frontend fr
 
 2. Clone the repository:
 ```
-git clone <link>
+git clone https://github.com/sanger-pathogens/paminfo-training-FE.git
 ```
 3. Open the project in your IDE and run the following:
 
