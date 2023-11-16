@@ -54,3 +54,4 @@ GFF
 3. Create and Populate a table
 
 * Using the imported `file_format` object, display all of the object properties/property values in a table. The style for the table element has already been provided in `src/routes/+page.svelte`.
+
