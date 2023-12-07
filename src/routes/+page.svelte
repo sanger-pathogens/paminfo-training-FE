@@ -1,3 +1,4 @@
+<!--suppress ALL -->
 <script>
   import { file_format } from "./constant_store.svelte";
 </script>
@@ -20,7 +21,7 @@
   <h3>
     <!-- EX2:  FIX THE CODE BELOW     -->
     {#each file_format as file}
-      <div>{file.name}</div>
+      <div>{file.file_name}</div>
     {/each}
     <!-- ------------------ END -->
   </h3>
